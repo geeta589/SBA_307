@@ -1,0 +1,18 @@
+#Registration{
+    background-color:blanchedalmond;
+     
+    border: solid;
+    /* padding-right: 10px; */
+    height: 600px;
+    width: 600px;
+
+}
+
+#Registration > img
+{
+        position:fixed;
+        top: 50px;
+        left: 200px;
+ 
+}
+
